@@ -1,3 +1,5 @@
+## Link do Vídeo de Apresentação: https://youtu.be/_0yzGaNGAqA
+
 # Simulação de Escalonamento de PODs Kubernetes
 
 Trabalho prático da disciplina de **Laboratório de Sistemas Operacionais — UNISINOS**.
